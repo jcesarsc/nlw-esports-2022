@@ -3,7 +3,7 @@ Projeto construído no evento NLW da Rocketseat na trilha Explorer em Set/2022.
 
 ![preview](./github/preview.png)
 
-[Clique aqui](https://jcesarsc.github.io/nlw_esports_2022/) para acessar o projeto.
+[Clique aqui](https://jcesarsc.github.io/nlw-esports-2022/) para acessar o projeto.
 
 ## ⚙️ Tecnologias utilizadas
 - HTML
